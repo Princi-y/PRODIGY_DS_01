@@ -1,0 +1,1 @@
+This repository contains a collection of visualizations based on a mental health dataset. The visualizations explore trends, patterns, and insights related to mental health across various demographics and factors.
